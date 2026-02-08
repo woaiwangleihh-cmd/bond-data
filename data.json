@@ -4,7 +4,21 @@
     "code": "000000",
     "apply_date": "2026-02-01",
     "list_date": "2026-02-15",
+    "suggestion": "全力申购",
+    "expect_price": "130.00",
+    "current_price": "100.00",
     "source": "init",
+    "updated_at": "2026-02-08"
+  },
+  {
+    "name": "海天转债",
+    "code": "123456",
+    "apply_date": "2026-02-10",
+    "list_date": "2026-02-25",
+    "suggestion": "积极参与",
+    "expect_price": "125.50",
+    "current_price": "100.00",
+    "source": "manual",
     "updated_at": "2026-02-08"
   }
 ]
